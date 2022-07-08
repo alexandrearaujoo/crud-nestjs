@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# Doc
+http://localhost:3000/docs/
 
 ## Installation
 
